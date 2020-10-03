@@ -1,0 +1,44 @@
+1. ID number
+2. Diagnosis (M = malignant, B = benign)
+
+##	Benign: These are not cancerous. They either cannot spread or grow, or they do so very slowly. 
+		If a doctor removes them, they do not generally return.
+##	Malignant: Malignant tumors are cancerous. The cells can grow and spread to other parts of the body.
+
+3. radius_mean: sort mean of distances from center to points on the perimeter
+4. texture_mean: sort standard deviation of gray-scale values
+5. perimeter_mean: sort mean size of the core tumor
+6. area_mean
+7. smoothness_mean: sort mean of local variation in radius lengths
+8. compactness_mean: sort mean of perimeter^2 / area - 1.0
+9. concavity_mean: sort mean of severity of concave portions of the contour
+10. concave points_mean: sort mean for number of concave portions of the contour
+11. symmetry_mean
+12. fractal_dimension_mean: sort mean for "coastline approximation" - 1
+13. radius_se: sort standard error for the mean of distances from center to points on the perimeter
+14. texture_se: sort standard error for standard deviation of gray-scale values
+15. perimeter_se
+16. area_se
+17. smoothness_se: sort standard error for local variation in radius lengths
+18. compactness_se: sort standard error for perimeter^2 / area - 1.0
+19. concavity_se: sort standard error for severity of concave portions of the contou
+20. concave points_se: sort standard error for number of concave portions of the contour
+21. symmetry_se
+22. fractal_dimension_se: sort standard error for "coastline approximation" - 1
+23. radius_worst: sort "worst" or largest mean value for mean of distances from center to points on the perimeter
+24. texture_worst: sort "worst" or largest mean value for standard deviation of gray-scale values
+25. perimeter_worst
+26. area_worst
+27. smoothness_worst: sort "worst" or largest mean value for local variation in radius lengths
+28. compactness_worst: sort "worst" or largest mean value for perimeter^2 / area - 1.0
+29. concavity_worst: sort "worst" or largest mean value for severity of concave portions of the contour
+30. concave points_worst: sort "worst" or largest mean value for number of concave portions of the contour
+31. symmetry_worst
+32. fractal_dimension_worst: sort "worst" or largest mean value for "coastline approximation" - 1
+
+
+
+
+
+
+
